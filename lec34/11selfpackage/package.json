@@ -1,0 +1,23 @@
+{
+  "name": "11selffolder",
+  "version": "1.0.0",
+  "description": "deepanshu made package",
+  "license": "ISC",
+  "author": "Deepanshu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+
+
+
+
+  
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1",
+    "install": "^0.13.0",
+    "npm": "^11.12.1"
+  }
+}
