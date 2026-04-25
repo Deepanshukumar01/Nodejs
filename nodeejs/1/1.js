@@ -35,6 +35,7 @@ ex <h1>Hello <%= name %></h1>
 ejs mei ye use hota hai or ha isse html dynamic bn jati hai */
 
 //topic 5 passing data to ejs
+/*data object ke form mei pass hota hai */
 
 //topic 6 
 /*conditional statement kaise pass krte hai ejs mei */
