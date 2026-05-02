@@ -21,6 +21,3 @@ console.log(s1.talk===s2.talk)//false har object ke paas alag function copy hai
 // ye hi hai disadvantages ek object bnane ke baad bhi sabhi ka function alg alg store ho rha hai
 
 //console.log(s1.talk()===s2.talk()) // isme undefined=undefined to true hoga print
-
-
-// new keyword se hi this ki value window se change hoge function name ho jati hai 
