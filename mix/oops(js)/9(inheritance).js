@@ -24,3 +24,5 @@ class teacher extends person {
 }
 t1 = new teacher("sir", 40, "math")
 t1.talk()
+s1=new student("deep",20,79)
+console.log(s1.marks)
