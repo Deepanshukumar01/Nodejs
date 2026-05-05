@@ -14,3 +14,4 @@ s2=new student("prashant",21)
 
 console.log(s1.age)
 console.log(s1.talk===s2.talk)
+
